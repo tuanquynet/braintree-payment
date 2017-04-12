@@ -1,0 +1,20 @@
+{
+	"header": {
+		"status": 200,
+		"errorCode": 0
+	},
+	"body": [
+		{
+			"username": "quy.tran@naustud.io",
+			"email": "quy.tran@naustud.io",
+			"password": "92%$%23asdf@#4",
+			"dob": 336264800000
+		},
+		{
+			"username": "dev02@naustud.io",
+			"email": "dev02@naustud.io",
+			"password": "92%$%23asdf@#4",
+			"dob": 336268800000
+		}
+	]
+}

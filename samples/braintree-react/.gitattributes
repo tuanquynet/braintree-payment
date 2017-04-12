@@ -1,0 +1,17 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+*.svg eol=lf
+
+# We always use LF line endings on checkout.
+*.js text eol=lf
+*.jsx text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.hbs text eol=lf
+*.xml text eol=lf
+*.css text eol=lf
+*.scss text eol=lf
+*.less text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+.* text eol=lf

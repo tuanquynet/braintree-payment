@@ -1,0 +1,19 @@
+{
+  "name": "braintree-payment-example",
+  "version": "1.0.0",
+  "description": "An examplement to test braintree payment integration",
+  "main": "index.js",
+  "scripts": {
+    "start-server": "npm run server/app.js",
+    "test": "npm run test/index.js"
+  },
+  "keywords": [
+    "payment"
+  ],
+  "author": "naustud.io",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "braintree": "^1.46.0"
+  }
+}
